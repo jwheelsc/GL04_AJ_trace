@@ -1,7 +1,7 @@
 function [msfc,ws,ol,image_name,xlms,ylms] = msfcFunc()
 
 %enter your value in pixels per meter here:
-pxpm = 905 
+pxpm = 100.6
 
 msfc = 1/pxpm
 %enter the size of your subwindow for tracing in meters
